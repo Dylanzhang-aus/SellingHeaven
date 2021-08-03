@@ -14,16 +14,16 @@
                 'region' => 'us-east-1',
                 'version' => 'latest',
                 'credentials' => [
-                       'key' => 'AKIAQASP6GPXRZZAJ4FS',
-                       'secret' => '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'
+                       'key' => '********',
+                       'secret' => '********'
                 ],
              ]);
 			 $s3client = new S3Client([
 				'region' => 'us-east-1',
 				'version' => 'latest',
 				'credentials' => [
-					   'key' => 'AKIAQASP6GPXRZZAJ4FS',
-					   'secret' => '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'
+					   'key' => '********',
+					   'secret' => '*******'
 				],
 			 ]);
 
